@@ -50,8 +50,5 @@ Enhanced with more real-world banking operations:
 
 ---
 
-## 📸 Screenshots
-*(Add images of your program output here for better presentation)*
 
----
 
