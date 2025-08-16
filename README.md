@@ -1,6 +1,6 @@
 # 💳 Bank 1 – C++ Console Banking System
 
-This repository contains **three progressive versions** of a C++ console-based banking client management system, developed as part of the *Programming Advices* training track.
+This repository contains **three progressive versions** of a C++ console-based banking client management system, developed as part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track.
 
 Each version introduces new features, enhancements, and optimisations, showcasing the evolution of the project from a simple client manager to a fully featured banking system.
 
